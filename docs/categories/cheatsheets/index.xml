@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheatsheets on Blowfish</title>
-    <link>https://vostro-sito.com/categories/cheatsheets/</link>
+    <link>https://kappa710.github.io/prova3/categories/cheatsheets/</link>
     <description>Recent content in Cheatsheets on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="https://vostro-sito.com/categories/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kappa710.github.io/prova3/categories/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Subnetting CHEATSHEETS</title>
-      <link>https://vostro-sito.com/posts/_networking/ip-v4/esercizi-subnetting/</link>
+      <link>https://kappa710.github.io/prova3/posts/_networking/ip-v4/esercizi-subnetting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vostro-sito.com/posts/_networking/ip-v4/esercizi-subnetting/</guid>
+      <guid>https://kappa710.github.io/prova3/posts/_networking/ip-v4/esercizi-subnetting/</guid>
       <description>come diventare pro nel subnetting</description>
       
     </item>
