@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vostro-sito.com/sitemap.xml
