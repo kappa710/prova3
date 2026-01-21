@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kappa710.github.io/prova3/sitemap.xml
